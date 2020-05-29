@@ -1,0 +1,23 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ComputerKid&#39;s Brain Dump</title>
+    <link>http://localhost/</link>
+    <description>Recent content on ComputerKid&#39;s Brain Dump</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 29 May 2020 21:37:14 +0000</lastBuildDate>
+    
+        <atom:link href="http://localhost/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Posts</title>
+      <link>http://localhost/posts/</link>
+      <pubDate>Fri, 29 May 2020 21:37:14 +0000</pubDate>
+      
+      <guid>http://localhost/posts/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on ComputerKid&#39;s Brain Dump</title>
+    <link>http://localhost/page/</link>
+    <description>Recent content in Pages on ComputerKid&#39;s Brain Dump</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 29 May 2020 20:52:12 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/page/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About This Blog</title>
+      <link>http://localhost/page/about-this-blog/</link>
+      <pubDate>Fri, 29 May 2020 20:52:12 +0000</pubDate>
+      
+      <guid>http://localhost/page/about-this-blog/</guid>
+      <description>This isn&amp;rsquo;t actually a blog, really. There is no structure, or subject, though I&amp;rsquo;ll bet it&amp;rsquo;s going to revolve around tech. I like to think of this as a brain dump that the whole world can see.
+On the back end this blog is a static site. Made with Hugo and the bilberry theme.
+It was very fun and easy to make. It&amp;rsquo;s the first website I&amp;rsquo;ve made in the last 5 years-ish.</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>http://localhost/page/about-me/</link>
+      <pubDate>Thu, 28 May 2020 20:34:07 +0000</pubDate>
+      
+      <guid>http://localhost/page/about-me/</guid>
+      <description> ComputerKid n : an incredible not-yet-adult; A fan of books, podcasts, writing, hiking, backpacking, camping, COFFEE, exploring, learning, Linux, open source, and of course Computers; A regular at Linux Unplugged
+ Email: thatcomputerkid@pm.me
+Geekshed: ComputerKid
+Freenode: ComputerKid
+Discord: ComputerKid#6125
+Github: ThatComputerKid
+Conferences I am visiting:
+ Stupid Corona  My current Tech Setup:
+ One laptop with  Arch Linux  KDE Plasma I3wm(I plan to make an article on how I married these two)     A Pine A64 single board computer running Arch Linux with  Docker    </description>
+    </item>
+    
+  </channel>
+</rss>
