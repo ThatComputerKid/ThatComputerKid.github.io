@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on ComputerKid&#39;s Brain Dump</title>
-    <link>http://localhost/posts/</link>
+    <link>https://thatcomputerkid.github.io/posts/</link>
     <description>Recent content in Posts on ComputerKid&#39;s Brain Dump</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 29 May 2020 21:37:14 +0000</lastBuildDate>
     
-	<atom:link href="http://localhost/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://thatcomputerkid.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Tiddly Wiki</title>
-      <link>http://localhost/posts/tiddly-wiki/</link>
+      <link>https://thatcomputerkid.github.io/posts/tiddly-wiki/</link>
       <pubDate>Fri, 29 May 2020 21:37:14 +0000</pubDate>
       
-      <guid>http://localhost/posts/tiddly-wiki/</guid>
+      <guid>https://thatcomputerkid.github.io/posts/tiddly-wiki/</guid>
       <description>Coming Soon.</description>
     </item>
     
     <item>
       <title>The Lounge IRC</title>
-      <link>http://localhost/posts/the-lounge/</link>
+      <link>https://thatcomputerkid.github.io/posts/the-lounge/</link>
       <pubDate>Fri, 29 May 2020 21:06:00 +0000</pubDate>
       
-      <guid>http://localhost/posts/the-lounge/</guid>
+      <guid>https://thatcomputerkid.github.io/posts/the-lounge/</guid>
       <description>The Lounge IRC client is a self-hosted web IRC client.
 Basically it&amp;rsquo;s an IRC client that will run on your server or always connected computer so that it never misses a message. You can then connect to the Lounge through any web browser and read those messages. It is beautifully designed, has the features of any modern chat client, and is easy to deploy.
 I use IRC a lot for Jupiter broadcasting, support, and more.</description>
